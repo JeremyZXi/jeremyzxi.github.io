@@ -89,39 +89,39 @@ tags: [Test, Image]
       - Sample Code
       ```python
           import numpy as np
-      from sklearn.tree import DecisionTreeClassifier
-      from sklearn.model_selection import train_test_split
-      from sklearn.metrics import accuracy_score
-    
-      # Step 1: Data Preparation
-      # Load the dataset (X: features, y: target variable)
-      X = np.array([[1, 2], [2, 3], [3, 1], [4, 4]])
-      y = np.array([0, 0, 1, 1])
-    
-      # Split the data into training and testing sets
-      X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-    
-      # Step 2: Model Initialization
-      # Initialize the Decision Tree classifier
-      tree = DecisionTreeClassifier()
-    
-      # Step 3: Model Training
-      # Train the Decision Tree classifier using the training data
-      tree.fit(X_train, y_train)
-    
-      # Step 4: Model Evaluation
-      # Evaluate the trained model using the testing data
-      y_pred = tree.predict(X_test)
-    
-      # Calculate the accuracy of the model
-      accuracy = accuracy_score(y_test, y_pred)
-      print("Accuracy:", accuracy)
-    
-      # Step 5: Prediction
-      # Use the trained model to make predictions on new, unseen data
-      new_data = np.array([[2, 2], [3, 3]])
-      predictions = tree.predict(new_data)
-      print("Predictions:", predictions)
+        from sklearn.tree import DecisionTreeClassifier
+        from sklearn.model_selection import train_test_split
+        from sklearn.metrics import accuracy_score
+        
+        # Step 1: Data Preparation
+        # Load the dataset (X: features, y: target variable)
+        X = np.array([[1, 2], [2, 3], [3, 1], [4, 4]])
+        y = np.array([0, 0, 1, 1])
+        
+        # Split the data into training and testing sets
+        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
+        
+        # Step 2: Model Initialization
+        # Initialize the Decision Tree classifier
+        tree = DecisionTreeClassifier()
+        
+        # Step 3: Model Training
+        # Train the Decision Tree classifier using the training data
+        tree.fit(X_train, y_train)
+        
+        # Step 4: Model Evaluation
+        # Evaluate the trained model using the testing data
+        y_pred = tree.predict(X_test)
+        
+        # Calculate the accuracy of the model
+        accuracy = accuracy_score(y_test, y_pred)
+        print("Accuracy:", accuracy)
+        
+        # Step 5: Prediction
+        # Use the trained model to make predictions on new, unseen data
+        new_data = np.array([[2, 2], [3, 3]])
+        predictions = tree.predict(new_data)
+        print("Predictions:", predictions)
     ```
 - ## Computer Vision and Neural Networks
 - ## Convolutional Neural Networks
