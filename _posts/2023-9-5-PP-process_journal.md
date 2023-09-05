@@ -5,8 +5,8 @@ title: >
 tags: [Test, Image, Keystone]
 excerpt_separator: <!--more-->
 ---
-
 # Personal Project Process Journal
+<!--more-->
 - ## Intro to Machine Learning
     Two types of Machine learning model:
         Where the first type requires labels called 
