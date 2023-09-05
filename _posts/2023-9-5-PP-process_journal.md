@@ -2,7 +2,7 @@
 layout: post
 title: >
     Personal Project
-tags: [Test, Image, Keystone]
+tags: [Test, Image, Keystone,AI]
 excerpt_separator: <!--more-->
 ---
 # Personal Project Process Journal
