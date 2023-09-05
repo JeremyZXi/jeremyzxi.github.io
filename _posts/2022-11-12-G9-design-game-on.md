@@ -2,8 +2,8 @@
 layout: post
 title: >
     Design Game on
-feature-img: "assets/img/feature-img/gameOnIcon.png"
-thumbnail: "assets/img/thumbnails/feature-img/gameOnIcon.png"
+feature-img: "assets/img/pexels/gameOnIcon.png"
+thumbnail: "assets/img/pexels/gameOnIcon.png"
 tags: [Test, Keystone]
 ---
 ![icon]({{ "assets/img/pexels/gameOnIcon.png" | relative_url}})
