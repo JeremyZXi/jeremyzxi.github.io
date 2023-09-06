@@ -126,7 +126,13 @@ excerpt_separator: <!--more-->
     ```
 - ## Computer Vision and Neural Networks
     More complex model is needed for processing more complex data. Here is where Neural Newroks turn out to be useful. <br><br>
+    - Image
     A image with color contains three channels:R, G, and B
     ![RGB_Sample]({{ "assets/img/RGB_sample.png" | relative_url}})
-    Each pixel on each channel can be represented by a number between 0 to 255
+    Each pixel on each channel can be represented by a number between 0 to 255. We can than read these numbers into an array as the inputs. <br><br>
+    - Neural Networks
+    ![NN_architecture]({{ "assets/img/NN_architecture.png" | relative_url}})
+    Neural network
+
+
 - ## Convolutional Neural Networks
