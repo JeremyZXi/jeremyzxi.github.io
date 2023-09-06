@@ -125,4 +125,5 @@ excerpt_separator: <!--more-->
         print("Predictions:", predictions)
     ```
 - ## Computer Vision and Neural Networks
+    More complex model is needed for processing more complex data. Here is where Neural Newroks turn out to be useful. 
 - ## Convolutional Neural Networks
