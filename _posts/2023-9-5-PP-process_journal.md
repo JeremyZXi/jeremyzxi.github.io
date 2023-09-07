@@ -125,7 +125,7 @@ excerpt_separator: <!--more-->
         print("Predictions:", predictions)
     ```
 - ## Computer Vision and Neural Networks
-    More complex model is needed for processing more complex data. Here is where Neural Newroks turn out to be useful. <br><br>
+    More complex model is needed for processing more complex data. Here is where Neural Newroks turns out to be useful. <br><br>
     - Image
     A image with color contains three channels:R, G, and B
     ![RGB_Sample]({{ "assets/img/RGB_sample.png" | relative_url}})
