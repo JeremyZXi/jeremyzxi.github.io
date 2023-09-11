@@ -289,4 +289,5 @@ Collect data and try different appraoches
             else:
                 print(f'something went wrong, the outcome is: {pose_rec(image_path)}')
         ```
-        It turns out the problem is the model
+        It turns out the problem is the model.
+        
