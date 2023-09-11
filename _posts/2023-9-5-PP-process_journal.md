@@ -6,7 +6,13 @@ tags: [Test, Image, Keystone,AI]
 excerpt_separator: <!--more-->
 ---
 # Personal Project Process Journal
+
+Click [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/JeremyZXi/jeremyzxi.github.io/blob/master/files/LearningProcess.zip) to download the code and materials I used in the learning process.
 <!--more-->
+
+files end with **.ipynb** require special software/plugins to open it. To view or edit them online, try [Jupyter lab](https://jupyter.org/try-jupyter/lab/)
+
+
 - ## Intro to Machine Learning
     Two types of Machine learning model:
         Where the first type requires labels called 
