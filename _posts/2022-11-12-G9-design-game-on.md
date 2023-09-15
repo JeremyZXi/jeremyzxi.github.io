@@ -4,7 +4,7 @@ title: >
     Design Game on
 feature-img: "assets/img/pexels/gameOnIcon.png"
 thumbnail: "assets/img/pexels/gameOnIcon.png"
-tags: [Test, Keystone]
+tags: [Test, Keystone, Design]
 ---
 ![icon]({{ "assets/img/pexels/gameOnIcon.png" | relative_url}})
 # **Code**
