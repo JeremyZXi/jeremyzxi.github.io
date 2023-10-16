@@ -96,4 +96,5 @@ if you decide to run these code on local environment, you may need to install al
 !pip install pandas
 !pip install statsmodels
 ```
-### Highly recommand: <br>[Kaggle](https://www.kaggle.com/)
+### 推荐！！！: <br>
+[Kaggle](https://www.kaggle.com/)
