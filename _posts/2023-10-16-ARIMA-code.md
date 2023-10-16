@@ -6,9 +6,16 @@ tags: [Test, Machine Learning, Mathmatic modeling]
 excerpt_separator: <!--more-->
 ---
 ARIMA with python
+## 宇宙安全声明
+不保证对，不保证结果哪怕有一点沾边，不保证代码能跑，不保证跑了就能跑对。。。仅供参考
 <!--more-->
+# Might be Useful
+[Processed Excel](https://downgit.github.io/#/home?url=https://github.com/JeremyZXi/jeremyzxi.github.io/blob/master/files/cat2.xlsx)
+
+说白了这个文件就是防止你read_excel把第一行数据read成标题的。。
 # Find Parameters
-Calculating AIC value to optimize the p and q.
+Calculating AIC value to optimize the p and q.<br>
+PS:这玩意咱从网上抄的，xuehan上课给的那个咱没看懂。。。能不能用的咱也不好说，但是结果似乎靠谱
 ```python
 import pandas as pd
 import numpy as np
@@ -44,7 +51,7 @@ print(f"Optimal p: {best_p}")
 print(f"Optimal q: {best_q}")
 ```
 # Train the model
-load the dataset again to ensure nothing changed
+Train the model
 ```python
 import pandas as pd
 import numpy as np
@@ -80,3 +87,13 @@ for year, value in zip(data['year'], forecasted_values):
     print(year, ':', value)
 ```
 ![Figure1]({{ "assets/img/catARIMA.png" | relative_url}})
+# Note
+### Environment 
+if you decide to run these code on local environment, you may need to install all those library.
+```python
+!pip install numpy
+!pip install matplotlib
+!pip install pandas
+!pip install statsmodels
+```
+### Highly recommand: <br>[Kaggle](https://www.kaggle.com/)
