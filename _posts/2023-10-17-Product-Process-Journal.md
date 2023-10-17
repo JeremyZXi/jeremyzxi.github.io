@@ -5,6 +5,11 @@ title: >
 tags: [Test, Image, Keystone,AI]
 excerpt_separator: <!--more-->
 ---
+New Appraoch with RNN
+<!--more-->
+## Version
+![Version]({{ "assets/img/PPRNNVersion.png" | relative_url}})
+All versions were saved on [Kaggle](https://www.kaggle.com/xiyanjeremyz/landmarks-rnn)
 ## Data
 It seems like using CNN model is not a successful approach based on my physical test. The model highly depand on shooting angle and position condition. This will definitally not work with any real life situation. Thus, we consider body landmarks this time and try a new approach with RNN model
 ## Model
