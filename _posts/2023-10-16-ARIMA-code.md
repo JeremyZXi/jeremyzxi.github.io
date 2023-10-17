@@ -98,3 +98,7 @@ if you decide to run these code on local environment, you may need to install al
 ```
 ### 推荐！！！: <br>
 [Kaggle](https://www.kaggle.com/)
+
+### 2023/10/17<br>
+似乎$p$取值$10$或者$9$是可行的，然后$d$貌似无所谓。。。
+
