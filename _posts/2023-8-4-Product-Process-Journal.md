@@ -9,7 +9,7 @@ Collect data and try different appraoches
 
 Click [here](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/JeremyZXi/jeremyzxi.github.io/blob/master/files/PersonalProjectProduct.zip) to download the code.
 <!--more-->
-Contact xiyan.zhang@student.keystoneacademy.cn for password
+Contact xiyan.zhang@student.keystoneacademy.cn for password(as the code contains private image for testing)
 - ## Data
     Data is the 'soul' of the product, as the quality of the data directly affects the accuracy of the model. For this specific task, I need labeled images containing people performing different movements. Collecting all the data by myself would be a challenging task. Fortunately, I discovered a relevant dataset online. Although I won't be able to create the dataset from scratch, it is still a helpful and wise choice.
     [link to the dataset](https://www.kaggle.com/datasets/imsparsh/gesture-recognition)
