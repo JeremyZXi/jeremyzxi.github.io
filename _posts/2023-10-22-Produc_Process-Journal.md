@@ -202,9 +202,9 @@ class model:
         frame_count = 0
         cap = cv2.VideoCapture(0)
         Camera_Height = 480
-        DetectRange = [6000, 11000]  # DetectRange[0] 是保持静止的检测人脸面积阈值下限，DetectRange[0] 是保持静止的检测人脸面积阈值上限
-        PID_Parameter = [0.5, 0.0004, 0.4]
-        pErrorRotate, pErrorUp = 0, 0
+        DetectRange = [6000, 11000]  # params for future improvment
+        PID_Parameter = [0.5, 0.0004, 0.4] # params for future improvment(PID)
+        pErrorRotate, pErrorUp = 0, 0 # params for future improvment
 
         # 字体设置
         font = cv2.FONT_HERSHEY_SIMPLEX
@@ -253,3 +253,30 @@ Your browser doesn't support "video" tage
 </video>
 
 - Special Thanks: ***Songmian Jerry Li***, for show up in the video
+
+# Reflection
+Up to now, the product was officially completed, further improvement will be aplly, but maybe after completing the entire personal product. 
+### Technical details
+Using the video feed of a drone doesn't really make any difference if we maintain the height of the frame to our upper body. With the advent of motility, the device can now turn in more directions. However, the height of the drone must be maintained at chest level. The accuracy and percision of the inference using the video feed from the drone vary in an acceptable range—～0.001.
+| Category | Precision | 
+|----------|-----------|
+| 1        | 0.8     |
+| 2        | 0.8      |
+| 3        | 0.75      |
+| 4        | 0.70      |
+| 5        | 0.64      |
+
+Overall Accuracy: 0.74<br>
+Based on the table above, we can see that the precision and accuracy scores are all above 0.6. However, the test was conducted in a way that was very similar to the test on a laptop. This means that in real life, this model might not work well. In addition to that, the model messes up when more than one person appears on camera. The landmark algorithm only detects the body landmark of one person. Furthermore, the model cannot identify if the person there is doing one of the movements or not.
+### Possible improvement
+- Multi-Person Detection: At the moment, my model struggles when more than one person appears in the camera's view. I could improve the model to detect and differentiate between multiple people.
+
+- Height Adjustment: The drone needs to maintain a certain height level to accurately infer movements. I could develop a mechanism for the drone to automatically adjust its height based on the person's position. This can be done my train a model that detect certain body part.
+
+- Improved Accuracy: While the model's precision and accuracy are acceptable, there's always room for improvement. I could refine my model with more training data, or consider using more advanced models or techniques. The data set for example, should include extreme condition to improve the model's generalization ability. Furthermore, adujust the framework of the RNN model or use a combination of different model might help
+
+- Real-Life Testing: The model was tested in conditions similar to a laptop environment. To ensure it works well in real-life scenarios, I could conduct tests in various environments with different lighting conditions, distances, and angles.
+
+- Movement Detection: The model currently struggles to identify if a person is performing one of the movements or not. I could improve this by training my model with more diverse data, including instances where no specific movement is being performed.
+
+- Gesture Customization: I could allow users to define their own gestures and corresponding drone actions. This would make the product more versatile and user-friendly. This could be done by fit the pre-trained model with the assigned gesture
