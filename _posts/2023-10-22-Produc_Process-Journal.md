@@ -246,8 +246,10 @@ if __name__ == '__main__':
     main()
 ```
 We complete our final product.
+
 <video src="
 https://github.com/JeremyZXi/jeremyzxi.github.io/assets/144130528/78e675f3-4b70-4037-bfaf-45d34615a9e1" controls="controls">
 Your browser doesn't support "video" tage
 </video>
 
+- Special Thanks: ***Songmian Jerry Li***, for show up in the video
