@@ -258,6 +258,7 @@ Your browser doesn't support "video" tage
 Up to now, the product was officially completed, further improvement will be aplly, but maybe after completing the entire personal product. 
 ### Technical details
 Using the video feed of a drone doesn't really make any difference if we maintain the height of the frame to our upper body. With the advent of motility, the device can now turn in more directions. However, the height of the drone must be maintained at chest level. The accuracy and percision of the inference using the video feed from the drone vary in an acceptable range—～0.001.
+
 | Category | Precision | 
 |----------|-----------|
 | 1        | 0.8     |
