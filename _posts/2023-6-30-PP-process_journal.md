@@ -141,4 +141,37 @@ files end with **.ipynb** require special software/plugins to open it. To view o
     Neural network
 
 
-- ## Convolutional Neural Networks
+## Introduction
+Neural networks are a set of algorithms, modeled loosely after the human brain, designed to recognize patterns. They interpret sensory data through a kind of machine perception, labeling or clustering raw input.
+
+## Convolutional Neural Networks (CNN)
+CNNs are deep learning algorithms used primarily to classify images, cluster them by similarity, and perform object recognition.
+
+### Structure of CNN
+- **Input Layer:** This is where the network takes in the image data.
+- **Convolutional Layer:** This layer applies a specified number of convolution filters to the image.
+- **ReLU Layer:** This layer applies the rectified linear unit activation function, which adds non-linearity to the network.
+- **Pooling Layer:** This layer reduces the spatial size of the convolved feature, which decreases the computational power required.
+- **Fully Connected Layer:** This layer identifies and classifies the objects in the image.
+
+## Recurrent Neural Networks (RNN)
+RNNs are a type of artificial neural network designed to recognize patterns in sequences of data, such as text, genomes, handwriting, or spoken word.
+
+### Structure of RNN
+- **Input Vector:** This is the encoded form of the data point being fed into the neural network.
+- **Hidden Layer:** This layer performs computations on the inputs and passes the results and the previous hidden state forward.
+- **Output Layer:** This layer produces the prediction for the given input.
+
+## Other Models
+- **Long Short-Term Memory (LSTM):** A type of RNN that can learn and remember over long sequences, useful in sequence prediction problems.
+- **Generative Adversarial Networks (GANs):** A class of AI algorithms used in unsupervised machine learning, implementing two neural networks contesting one another in a zero-sum game framework.
+- **Autoencoders:** A type of artificial neural network used to learn efficient data codings in an unsupervised manner.
+
+## Applications of Neural Networks in Computer Vision
+- Image and Video Recognition
+- Image Analysis
+- Classification and Clustering
+- Object Detection
+- Semantic Segmentation
+- Image Generation
+
