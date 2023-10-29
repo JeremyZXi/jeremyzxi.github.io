@@ -29,7 +29,9 @@ AI model: A model that can recongonize motions and posture of human
 Drone: A drone that do certain operation with the output of the AI model
 ### Process Journal
 Learning:
-[2023/09/05](https://jeremyzxi.github.io/2023/09/05/PP-process_journal.html)<br>
+[Intro to Machine Learning](https://jeremyzxi.github.io/2023/09/05/PP-process_journal.html).  [The Mathematics Behind Neural Networks
+](https://jeremyzxi.github.io/2023/07/05/PP-process_journal2.html).  [Movement Detection](https://jeremyzxi.github.io/2023/07/15/PP-Process_journal3.html).  [Body Landmarks Detection
+](https://jeremyzxi.github.io/2023/07/20/PP-process_journal4.html)<br>
 Product-Data Collection & Approach with CNN:
 [2023/08/04](https://jeremyzxi.github.io/2023/08/04/Product-Process-Journal.html)<br>
 Product-Approach with RNN:
