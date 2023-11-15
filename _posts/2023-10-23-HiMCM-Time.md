@@ -2,7 +2,7 @@
 layout: post
 title: >
     HiMCM进度
-tags: [Test, Machine Learning, Mathmatic modeling]
+tags: [Test, Machine Learning, Mathematic modeling]
 excerpt_separator: <!--more-->
 ---
 时间线

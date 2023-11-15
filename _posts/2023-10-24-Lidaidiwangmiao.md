@@ -2,7 +2,7 @@
 layout: post
 title: >
     鼎石古建研习社
-tags: [Test, Machine Learning, Mathmatic modeling]
+tags: [Test, Machine Learning]
 excerpt_separator: <!--more-->
 ---
 
