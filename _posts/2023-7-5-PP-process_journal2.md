@@ -75,14 +75,14 @@ Softmax: e^(x[i]) / Σ(e^(x[j]))
 Recurrent neural networks, also known as RNNs, are a class of neural networks that allow previous outputs to be used as inputs while having hidden states. 
 For each timestep $t$, the activation $a^{<t>}$ and the output $y^{<t>}$ are expressed as follows:
 
-$\boxed{a^{< t >}=g_1(W_{aa}a^{< t-1 >}+W_{ax}x^{< t >}+b_a)}\quad\textrm{and}\quad\boxed{y^{< t >}=g_2(W_{ya}a^{< t >}+b_y)}$
+$$\boxed{a^{< t >}=g_1(W_{aa}a^{< t-1 >}+W_{ax}x^{< t >}+b_a)}\quad\textrm{and}\quad\boxed{y^{< t >}=g_2(W_{ya}a^{< t >}+b_y)}$$
 
-where $W_{ax}, W_{aa}, W_{ya}, b_a, b_y$ are coefficients that are shared temporally and $g_1, g_2$ activation functions.
+where $$W_{ax}, W_{aa}, W_{ya}, b_a, b_y$$ are coefficients that are shared temporally and $$g_1, g_2$$ activation functions.
 
 
 | **Sigmoid**  |  **Tanh** |  **RELU** |
 |---|---|---|
-|  $\displaystyle g(z)=\frac{1}{1+e^{-z}}$ | $\displaystyle g(z)=\frac{e^{z}-e^{-z}}{e^{z}+e^{-z}}$  | $\displaystyle g(z)=\max(0,z)$  |
+|  $$\displaystyle g(z)=\frac{1}{1+e^{-z}}$$ | $$\displaystyle g(z)=\frac{e^{z}-e^{-z}}{e^{z}+e^{-z}}$$  | $$\displaystyle g(z)=\max(0,z)$$  |
 
 
 
