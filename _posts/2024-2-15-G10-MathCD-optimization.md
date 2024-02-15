@@ -2,7 +2,7 @@
 layout: post
 title: >
     Optimizing East 2 Thermos
-tags: [Test, Mathematic modeling]
+tags: [Test, Mathematic modeling, notes]
 excerpt_separator: <!--more-->
 ---
 <!--more-->
