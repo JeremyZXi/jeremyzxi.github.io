@@ -1,6 +1,5 @@
-# AHP & Decision Tree
+# AHP IMMC2024
 
-# AHP
 
 ## Judging Matrix
 
@@ -37,10 +36,3 @@ $$
 x_{scaled} = \frac{x-x_{min}}{x_{max}-x_{min}}
 $$
 
-# Decision Tree
-
-[decistion_tree.log](AHP%20&%20Decision%20Tree%20acb5d51375704ae191f4bcd34fa7d1b2/decistion_tree.log)
-
-[算readiness.ipynb](AHP%20&%20Decision%20Tree%20acb5d51375704ae191f4bcd34fa7d1b2/%25E7%25AE%2597readiness.ipynb)
-
-[dataset_petandcovid.csv](AHP%20&%20Decision%20Tree%20acb5d51375704ae191f4bcd34fa7d1b2/dataset_petandcovid.csv)
