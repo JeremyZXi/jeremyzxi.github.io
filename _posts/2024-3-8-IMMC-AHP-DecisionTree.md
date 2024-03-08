@@ -19,8 +19,7 @@
 
 | Params | Weight |
 | --- | --- |
-| Household Members' Pet Allergies
- | 0.26884598 |
+| Household Members' Pet Allergies| 0.26884598 |
 | Number of Household Members | 0.06366679 |
 | Average Living Space per Person | 0.09101158 |
 | Average Disposable Income per Person | 0.1006127 |
@@ -35,4 +34,6 @@ Normalize the data with min-max normalization:
 $$
 x_{scaled} = \frac{x-x_{min}}{x_{max}-x_{min}}
 $$
+
+
 
