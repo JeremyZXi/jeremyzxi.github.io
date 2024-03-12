@@ -2,7 +2,7 @@
 layout: post
 title: >
     Product Creation-Drone
-tags: [Test, Image, Keystone,AI]
+tags: [Test, Image, Keystone,AI,MYP Personal Project]
 excerpt_separator: <!--more-->
 feature-img: "assets/img/MyTello.jpg"
 thumbnail: "assets/img/MyTello.jpg"

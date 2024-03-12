@@ -2,7 +2,7 @@
 layout: post
 title: >
     Product Creation
-tags: [Test, Image, Keystone,AI]
+tags: [Test, Image, Keystone,AI,MYP Personal Project]
 excerpt_separator: <!--more-->
 ---
 Collect data and try different appraoches

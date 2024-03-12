@@ -2,7 +2,7 @@
 layout: post
 title: >
     Product Creation-Model Deployment
-tags: [Test, Image, Keystone,AI]
+tags: [Test, Image, Keystone,AI,MYP Personal Project]
 excerpt_separator: <!--more-->
 ---
 Deploy the model to local device and imply real-time inference

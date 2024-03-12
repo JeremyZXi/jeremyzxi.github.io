@@ -2,7 +2,7 @@
 layout: post
 title: >
     Product Creation-RNN
-tags: [Test, Image, Keystone,AI]
+tags: [Test, Image, Keystone,AI,MYP Personal Project]
 excerpt_separator: <!--more-->
 ---
 New Appraoch with RNN
