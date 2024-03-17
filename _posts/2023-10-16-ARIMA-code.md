@@ -2,7 +2,7 @@
 layout: post
 title: >
     Python Code For ARIMA
-tags: [Test, Machine Learning, Mathmatic modeling]
+tags: [Test, Machine Learning, Mathmatical modeling]
 excerpt_separator: <!--more-->
 ---
 ARIMA with python
