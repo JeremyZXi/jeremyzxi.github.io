@@ -1,6 +1,11 @@
+---
+layout: post
+title: >
+    10个例子
+tags: [Test, Mathematic modeling,]
+excerpt_separator: <!--more-->
+---
 # AHP IMMC2024
-
-
 ## Judging Matrix
 
 |  | Household Members' Pet Allergies | Number of Household Members | Average Living Space per Person | Average Disposable Income per Person | Pet Attitude | Previous Pet Experience | Existence of Junior and Senior Household Members | Self-Assessed Overall Health Condition | Final Education Level |
