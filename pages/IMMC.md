@@ -1,7 +1,7 @@
 ---
 layout: page
-title: IMMC 
-permalink: /IMMC/
+title: IMMC/HiMCM
+permalink: /MC/
 tags: [Page]
 ---
 Resources:
