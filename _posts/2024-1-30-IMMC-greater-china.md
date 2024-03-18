@@ -35,7 +35,6 @@ This round was way better than last time; at least there were no confusing equat
 ## About myself
 - My scripts are messy; though, my programming ability improved (perhaps because the MATLAB optimization toolbox was sooooo user-friendly that I feel like I am using a TI84 pro max ++++ that offers me 30 days free trial).
 - Communication could be, perhaps, one of my problems. For some reason, I am always struggling when communicating with one of my teammates.
-- More organized: My folder organization was much better. I am able to name them properly and store them in the correct place.
-
+- More organized: My folder organization was much better. I am able to name them properly and store them in the correct place. The "V+number" prefix was good; especially when I don't know how to use Git.
 ![Folder]({{ "assets/img/IMMC_OrganizedFolder.png" | relative_url}})
-    The "V+number" prefix was good; especially when I don't know how to use Git. 
+         
