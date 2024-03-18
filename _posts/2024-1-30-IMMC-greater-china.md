@@ -38,4 +38,5 @@ This round was way better than last time; at least there were no confusing equat
 - More organized: My folder organization was much better. I am able to name them properly and store them in the correct place.
 ![Folder]({{ "assets/img/IMMC_OrganizedFolder.png" | relative_url}})
 
+
     The "V+number" prefix was good; especially when I don't know how to use Git. 
