@@ -33,3 +33,8 @@ This round was way better than last time; at least there were no confusing equat
 
 - We urgently need a sharing platform to keep our work, diagrams, notes, and codes. The problem here is that once we divided our work, each of us just went to work separately. After an hour, when we meet again to check our progress, it turns out that somebody has either done literally nothing or has no idea what they are doing. We don't really need Git or Gist, as I am basically the only coder in the team, but we do need to keep track of all our other work. Github could be a good option, but preferably a more user-friendly one (PowerPoint?).
 ## About myself
+- My scripts are messy; though, my programming ability improved (perhaps because the MATLAB optimization toolbox was sooooo user-friendly that I feel like I am using a TI84 pro max ++++ that offers me 30 days free trial).
+- Communication could be, perhaps, one of my problems. For some reason, I am always struggling when communicating with one of my teammates.
+- More organized: My folder organization was much better. I am able to name them properly and store them in the correct place.
+![Folder]({{ "assets/img/IMMC_OrganizedFolder.png" | relative_url}})
+The "V+number" prefix was good; especially when I don't know how to use Git. 
