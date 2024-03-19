@@ -16,7 +16,7 @@ mhagnumdw:
   url: 
 JerryLi:
   name: 李松冕
-  avatar: {{ "assets/img/jerryLi.png" | relative_url}}
+  avatar: assets/img/jerryLi.png
   url: "https://github.com/02JerryL02"
 JeremyZhang:
   name: Jeremy Zhang
