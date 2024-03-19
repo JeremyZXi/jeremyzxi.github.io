@@ -39,4 +39,5 @@ Product-Drone+Model:
 [2023/10/22](https://jeremyzxi.github.io/2023/10/22/Produc_Process-Journal.html)
 ### Update March 19 2024
 ![MeInPPExh]({{ "assets/img/MeInPPExh.png" | relative_url}})
-*Me in Personal Project Exhibition Source:The cover of [article](https://www.keystoneacademy.cn/index.php?s=/Cn/Index/pageView/catid/58/id/138.html) on my school's website*
+*Me in Personal Project Exhibition Source:The cover of [an article](https://www.keystoneacademy.cn/index.php?s=/Cn/Index/pageView/catid/58/id/138.html) on my school's website*
+Frankly speaking, I feel like I failed this entire project as my model basically not work in most of the time...despite the fact that it score around $$0.95$$ on the validation set. This is obviously a sign of overfitting as my dataset is to tiny(no more than 10 minutes of video feed). Furthermore, I have done barely no hyper-parameters tuning. In fact, before I start doing mathematical modeling contest, all I knew about hyper parameters are jsut the existence of them. I did change the epochs and some params of each dense layer, but that was pure guessing. That being said, maybe my solution of the problem is just not a good way of doing it(RNN is not specialized for CV, while my why of processing data could be problematic).
