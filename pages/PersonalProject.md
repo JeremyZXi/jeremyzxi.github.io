@@ -37,3 +37,6 @@ Product-Model deployment(RNN):
 [2023/10/17](https://jeremyzxi.github.io/2023/10/17/Product-Process_Journal.html)<br>
 Product-Drone+Model:
 [2023/10/22](https://jeremyzxi.github.io/2023/10/22/Produc_Process-Journal.html)
+### Update March 19 2024
+![MeInPPExh]({{ "assets/img/MeInPPExh.png" | relative_url}})
+*Me in Personal Project Exhibition Source:The cover of [article](https://www.keystoneacademy.cn/index.php?s=/Cn/Index/pageView/catid/58/id/138.html) on my school's website*
