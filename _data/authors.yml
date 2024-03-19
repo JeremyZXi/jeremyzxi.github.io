@@ -16,8 +16,8 @@ mhagnumdw:
   url: 
 JerryLi:
   name: 李松冕
-  avatar: "JeremyZXi/jeremyzxi.github.io/assets/img/jerryLi.png"
-  url: "https://github.com/mmistakes"
+  avatar: {{ "assets/img/jerryLi.png" | relative_url}}
+  url: "https://github.com/02JerryL02"
 JeremyZhang:
   name: Jeremy Zhang
   avatar:
