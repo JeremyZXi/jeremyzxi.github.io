@@ -55,3 +55,11 @@ exclude: [".jekyll-cache", ".jekyll-metadata", ".idea", "vendor/*", "assets/node
 
 # theme: type-on-strap                                  # if using the theme as a jekyll theme gem
 remote_theme: sylhare/Type-on-Strap                     # If using as a remote_theme in github
+
+# comment:
+comments:
+  utterances: "https://utteranc.es/client.js"              # Enable by filling below information. For more info, go to https://utteranc.es
+    repo: "JeremyZXi/jeremyzxi.github.io"                  # your public comments repository (e.g. owner/repo)
+    issue-term: "pathname"            # Issue term (e.g. "comment" consider issues with this word in the title as comments)
+    theme: "github-light"                 # OPTIONAL: Take the `color_theme` by default, or set a custom one like github-dark-orange
+    #label:                 # OPTIONAL: Adds an issue label in the issue
