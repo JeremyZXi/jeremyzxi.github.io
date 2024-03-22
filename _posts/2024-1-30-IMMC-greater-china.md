@@ -38,10 +38,3 @@ This round was way better than last time; at least there were no confusing equat
 - More organized: My folder organization was much better. I am able to name them properly and store them in the correct place. The "V+number" prefix was good; especially when I don't know how to use Git.
 ![Folder]({{ "assets/img/IMMC_OrganizedFolder.png" | relative_url}})
 
-<script src="https://utteranc.es/client.js"
-        repo="JeremyZXi/jeremyzxi.github.io"
-        issue-term="url"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
