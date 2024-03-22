@@ -37,4 +37,11 @@ This round was way better than last time; at least there were no confusing equat
 - Communication could be, perhaps, one of my problems. For some reason, I am always struggling when communicating with one of my teammates.
 - More organized: My folder organization was much better. I am able to name them properly and store them in the correct place. The "V+number" prefix was good; especially when I don't know how to use Git.
 ![Folder]({{ "assets/img/IMMC_OrganizedFolder.png" | relative_url}})
-         
+
+<script src="https://utteranc.es/client.js"
+        repo="JeremyZXi/jeremyzxi.github.io"
+        issue-term="url"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
