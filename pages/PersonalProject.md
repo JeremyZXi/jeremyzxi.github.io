@@ -2,6 +2,7 @@
 layout: page
 title: Personal Project
 permalink: /Personal_Project/
+feature-img: "assets/img/portfolio/MyTello.jpg"
 tags: [Page,MYP Personal Project]
 ---
 # Drone ✖️ AI
