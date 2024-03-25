@@ -16,15 +16,16 @@ constructing a drone. I aim to employ AI to tackle real-life problems, enhancing
 Additionally, this project will equip me with invaluable expertise that can aid me in pursuing further ventures related to AI,
 engineering, or computer science.
 ### Product/Outcome
-Product:
+**Product:**
 The proposed concept involves an AI model that has been trained to identify specific postures, gestures, or movements of
 humans. This model will be integrated into a drone, enabling it to utilize the model for flight control and other
 functionalities.
-Specifications:
-Data-collection: collection sufficient amount of positive and negative data for the model
-Programm: A program that works
-AI model: A model that can recongonize motions and posture of human
-Drone: A drone that do certain operation with the output of the AI model
+
+**Specifications:**
+- **Data-collection:** collection sufficient amount of positive and negative data for the model
+- **Programm:** A program that works
+- **AI model:** A model that can recongonize motions and posture of human
+- **Drone:** A drone that do certain operation with the output of the AI model
 ### Process Journal
 Learning:
 [Intro to Machine Learning](https://jeremyzxi.github.io/2023/09/05/PP-process_journal.html).  [The Mathematics Behind Neural Networks
