@@ -2,6 +2,7 @@
 layout: page
 title: IMMC/HiMCM
 permalink: /MC/
+feature-img: "assets/img/pexels/IMMC2.png"
 tags: [Page]
 ---
 
