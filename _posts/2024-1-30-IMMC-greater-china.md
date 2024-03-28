@@ -6,6 +6,8 @@ tags: [Test, Mathematical modeling, Reflection]
 excerpt_separator: <!--more-->
 ---
 Better than last time...?
+![meAndMyTeammate]({{ "assets/img/portfolio/MyTello.jpg" | relative_url}})
+*me at the very back*
 <!--more-->
 Honestly, I feel like the problem this time was way too much easier compared to the one in HiMCM 2023, possibly because this was just the first round. After all, Integrodifference Equations were "a bit" tooooo early for high school students. Linear programming, on the other hand, is not much easier, but at least the coding part doesn't require too much understanding with respect to the core math part, thanks to the MATLAB optimization toolbox!!!
 ## What have we done
