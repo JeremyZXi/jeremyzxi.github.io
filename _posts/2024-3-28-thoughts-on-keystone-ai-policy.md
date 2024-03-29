@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >
-    Some Thoughts on Keystone AI Policy
+    关于鼎石AI使用指南的一些想法
 tags: [Test, AI, Keystone]
 ---
 ## 定义未得到充分体现/定义不清
