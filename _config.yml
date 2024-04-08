@@ -46,6 +46,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:name
+  #rusted warfare mod
+  gameDevelop:
+    output: true
+    permalink: /:collection/:name
 
 # BUILD SETTINGS
 sass:
