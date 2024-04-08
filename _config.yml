@@ -47,7 +47,7 @@ collections:
     output: true
     permalink: /:collection/:name
   #rusted warfare mod
-  gameDevelop:
+  RustedWarfareMod:
     output: true
     permalink: /:collection/:name
 
