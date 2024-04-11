@@ -18,6 +18,6 @@ Things were a bit confusing this time, the problem was kind of perplexed. Initia
 *<center>My teammate trying to use AHP for 12 criteria me be like:</center>*
 Also, it's sōóōòōóõ hard to find data. I feel like we are winning the contest at the monment I found the data we used on nature. 
 
-![AHP]({{ "assets/img/pexels/crazyUseOfAHP.jpg" | relative_url}})
+![AHP]({{ "assets/img/pexels/correlationSelected.png" | relative_url}})
 
 *<center>Correlation between selected data</center>*
