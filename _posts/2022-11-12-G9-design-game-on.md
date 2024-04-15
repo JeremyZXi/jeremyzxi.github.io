@@ -2,6 +2,7 @@
 layout: post
 title: >
     Design Game on
+author: JeremyZhang
 feature-img: "assets/img/pexels/gameOnIcon.png"
 thumbnail: "assets/img/pexels/gameOnIcon.png"
 tags: [Test, Keystone, Design]

@@ -2,6 +2,7 @@
 layout: post
 title: >
     诶嘿嘿嘿嘿～鸡汤来喽
+author: JeremyZhang
 tags: [Test, 活]
 excerpt_separator: <!--more-->
 ---

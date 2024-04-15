@@ -2,6 +2,7 @@
 layout: post
 title: >
     Keystone Summer AI Program
+author: JeremyZhang
 tags: [Test, AI, Keystone]
 ---
 # **Machine Learning**

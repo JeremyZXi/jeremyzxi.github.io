@@ -2,6 +2,7 @@
 layout: post
 title: >
     Python Code For ARIMA
+author: JeremyZhang
 tags: [Test, Machine Learning, Mathmatical modeling]
 excerpt_separator: <!--more-->
 ---

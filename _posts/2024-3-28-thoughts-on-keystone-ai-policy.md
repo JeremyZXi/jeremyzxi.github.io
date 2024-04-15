@@ -2,6 +2,7 @@
 layout: post
 title: >
     关于鼎石AI使用指南的一些想法
+author: JeremyZhang
 tags: [Test, AI, Keystone]
 ---
 ## 定义未得到充分体现/定义不清

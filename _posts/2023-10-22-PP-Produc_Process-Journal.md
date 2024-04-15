@@ -2,6 +2,7 @@
 layout: post
 title: >
     Product Creation-Drone
+author: JeremyZhang
 tags: [Test, Image, Keystone,AI,MYP Personal Project]
 excerpt_separator: <!--more-->
 feature-img: "assets/img/MyTello.jpg"

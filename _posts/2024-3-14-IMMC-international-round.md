@@ -2,6 +2,7 @@
 layout: post
 title: >
     2024 IMMC International Round
+author: JeremyZhang
 tags: [Test, Mathematical modeling, Reflection]
 excerpt_separator: <!--more-->
 ---

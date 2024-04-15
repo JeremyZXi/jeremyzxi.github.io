@@ -2,6 +2,7 @@
 layout: post
 title: >
     2024 IMMC Greater China
+author: JeremyZhang
 tags: [Test, Mathematical modeling, Reflection]
 excerpt_separator: <!--more-->
 ---
