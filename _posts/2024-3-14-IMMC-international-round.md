@@ -21,4 +21,5 @@ Also, it's sōóōòōóõ hard to find data. I feel like we are winning the con
 
 ![AHP]({{ "assets/img/pexels/correlationSelected.png" | relative_url}})
 
-*<center>Correlation between selected data</center>*
+*<center>Correlation between selected data</center>
+
