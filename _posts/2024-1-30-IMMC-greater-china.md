@@ -39,4 +39,6 @@ This round was way better than last time; at least there were no confusing equat
 - Communication could be, perhaps, one of my problems. For some reason, I am always struggling when communicating with one of my teammates.
 - More organized: My folder organization was much better. I am able to name them properly and store them in the correct place. The "V+number" prefix was good; especially when I don't know how to use Git.
 ![Folder]({{ "assets/img/IMMC_OrganizedFolder.png" | relative_url}})
-
+## May/12/2024 Update
+We ended up with Finalist for this round, which is quite good, as people say the highest prize a team who gets promoted could get in this round is Finalist. As far as I know, there are several teams from Keystone who got honorable mentions, including Motorious, which were quite good as well. (P.S. I didn't know there were so many teams in Keystone.).
+![Finalist]({{ "assets/img/IMMC Certificate.png" | relative_url}})

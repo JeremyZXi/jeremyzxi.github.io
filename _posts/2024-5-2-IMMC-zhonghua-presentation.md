@@ -23,3 +23,7 @@ CityU里面还是挺好玩的，他入口甚至就在商场里面。其实我挺
 假期有时间的话是时候把相关的内容整理一下了，应该会发在这个博客上。
 ## 一些照片……
 
+
+## May/12/2024 Update
+![Outstanding]({{ "assets/img/IMMC intl Certificate.png" | relative_url}})
+Outstanding!!!!!! We are the first team ever on the history of Keystone Academy who won Outstanding prize on this contest!!!!
