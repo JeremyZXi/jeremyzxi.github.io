@@ -1,29 +1,32 @@
 ---
 layout: post
 title: >
-    国际数学建模挑战赛大中华区答辩决赛参赛感悟
+    Reflections on Participating in the Greater China Finals of the International Mathematical Modeling Challenge
 author: JeremyZhang
 tags: [Test,Mathematical modeling]
+excerpt_separator: <!--more-->
 ---
-这也是第二次参加数学建模了（P.S.事实上算是第三次？毕竟IMMC是两段式的赛程）……反正就也算是搞完了，只不过真就是在各种意义上汗流浃背了。话说回来说是数学建模，但是我的数学好像也没进步多少？很多东西还是知其然不知其所以然。这是个很大的问题，不然搞得自己好像什么都会实际上什么都不会，最后成B哥就不好了，不过该说不说能做一个好的调包侠也就还行了。这次还是挺感谢李（02）松（'s）冕（darling）的，虽然说之前的时候就是appendix仙人，但是做了总比没做好。况且做错了又怎么样，这个年纪不就是应该什么都不怕嘛！Appendix最终不还是用上了吗。
+This was my second time participating in mathematical modeling (P.S. actually, is it the third time? Since IMMC is a two-stage competition)… Anyway, it's over, and truly in every sense, it was a sweaty endeavor.
+<!--more-->
+Speaking of mathematical modeling, it seems my math hasn't improved much? There's a lot I know that I don't truly understand. This is a big problem; otherwise, it feels like you know everything when in reality you know nothing, and ending up like Brother B would not be good. However, it might still be fine to become a good "package-caller." I'm still very grateful to Li (02) Song ('s) Mian (darling), although he was previously the appendix sage, doing it is better than not doing it. And so what if it went wrong, isn't this the age when you should be fearless! The appendix eventually got used, didn't it?
 ## 答辩，答辩
-这次估计可以算作是我有生以来参加的第一次答辩，反正一挑十的感觉确实不怎么好。话说回来其实问的问题大部分也都准备了，除了那个问SVM的图上PCA feature的具体权重的还有那个通过代码注释质疑我们标签用的是是否拥有宠物的。
+This time I guess can be considered my first real defense ever, and honestly, the feeling of one against ten isn't really pleasant. Going back to the main point, I was prepared for most of the questions, except for that one about the specific weights of PCA features on an SVM graph and the one questioning our use of pet ownership as labels through code comments.
 
-反正能说的我也基本上都解释了，剩下的就看结果喽。一个挺好笑的事情是复旦教授旁边的那位副教授差点就要下场帮我给他解释了🤣
+Anyway, I explained everything I could, and now it's just a matter of waiting for the results. A funny incident was when the associate professor next to the Fudan professor almost came down to explain it to him for me 🤣
 
-然后还有个问题就是不知道为啥港城大的那个WI-FI会自动弹出来，搞得整个事情特别慌乱。
+Another issue was the WI-FI at HongKong City University popping up automatically, which made everything quite chaotic.
 
-其实今年的题挺奇怪的，前面好几组都是清一色的AHP，就是先用一些标准筛选一波，然后再用另外一个AHP或者类似的东西筛选一波。实际上后面也有其他的用机器学习的方法，只不过和我们做的很不一样。他们是先聚类出来了两簇，然后根据这两簇给数据打标签。其实下午应该还有更多好玩的解法，可惜被拉去吃饭了。。。（其实那顿饭真的不好吃！！！）
-## 其他的一些东西
+The problems this year were pretty weird, with several groups initially using AHP in a uniform manner, filtering with some standards, and then filtering again with another AHP or something similar. Later, others used machine learning methods, which were quite different from ours. They clustered the data into two groups and then labeled the data based on these groups. Actually, there might have been even more interesting solutions in the afternoon, but sadly, I was dragged away to have a meal… (and that meal was really not tasty!!!)
+## Some other stuff
 ![me]({{ "assets/img/pexels/me@cityU.jpg" | relative_url}})
-CityU里面还是挺好玩的，他入口甚至就在商场里面。其实我挺想逛逛的，可惜一结束就被拉去吃那顿不怎么好吃的饭了……
+CityU is quite fun, its entrance is even inside a shopping mall. I really wanted to explore it, but as soon as it ended, I was dragged away to have that not-so-tasty meal…
 
-还有就是我们似乎做出来了一个看似很有用但是不知道怎么用的东西……虽然事实上我们的解法对用户还是很友好的。只需要填一份超长问卷（雾）就可以了。
+It also seems like we created something that looks useful but we don't know how to use it... Although in reality, our solution is quite user-friendly. You just need to fill out a super long questionnaire (foggy).
 
-假期有时间的话是时候把相关的内容整理一下了，应该会发在这个博客上。
-## 一些照片……
+If I have time during the holidays, it's time to organize the related content and probably post it on this blog.
+## Some photos…
 
 
 ## May/12/2024 Update
 ![Outstanding]({{ "assets/img/IMMC intl Certificate.png" | relative_url}})
-Outstanding!!!!!! We are the first team ever on the history of Keystone Academy who won Outstanding prize on this contest!!!!
+Outstanding!!!!!! We are the first team ever in the history of Keystone Academy to win an Outstanding prize in this contest!!!!
