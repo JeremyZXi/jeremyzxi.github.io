@@ -6,6 +6,7 @@ author: JeremyZhang
 tags: [Test, Keystone]
 excerpt_separator: <!--more-->
 ---
+<!--more-->
 This semester, our Chinese class had a summative assessment where each of us wrote our own novel. For many of us, this was the first time we got to create our own original story. Strangely, there has been a push to circulate everyone's novel.
 
 I had an idea - why don't we create an archive to document all the novels we wrote? I've always thought the word "archive" sounded cool. Archiving something means preserving it, especially if it's important.
