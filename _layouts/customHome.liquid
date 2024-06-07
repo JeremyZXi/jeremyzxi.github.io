@@ -22,13 +22,13 @@ layout: default
         {% endif %}
     </style>
     <div id="main" class="call-out call-out_img">
-        <h1> {{ site.header_text | default: "Welcome to our featured articles!" }} </h1>
+        <h1> {{ site.header_text | default: "Welcome to our Key Archive!" }} </h1>
     </div>
 
-    <!-- Posts Filtering -->
+    <!-- Filter posts from KeyArchive folder -->
     <div class="posts">
         {% for post in site.posts %}
-            {% if post.path contains '/posts/KeyArchive/' %}
+            {% if post.path contains '/KeyArchive/' %}
                 <div class="post-preview">
                     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                     <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
