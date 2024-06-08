@@ -1,7 +1,6 @@
 ---
 layout: post
-title: >
-    What Can I Do?
+title: What Can I Do?
 author: JeremyZhang
 tags: [Test, Keystone]
 excerpt_separator: <!--more-->
