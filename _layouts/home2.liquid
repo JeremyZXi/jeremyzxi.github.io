@@ -11,7 +11,7 @@ layout: default
         {% if site.header_feature_image_responsive %}
         @media screen and (max-width: 768px) {
             .call-out_img {
-                background-image: url('{{ image[0] | append: '-medium.' | append: image[1] | default: image}}');
+                background-image: url('{{ image[0] | append: '-medium.' | append: image[1] | default: image }}');
             }
         }
         @media screen and (max-width: 576px) {
@@ -22,9 +22,12 @@ layout: default
         {% endif %}
     </style>
     <div id="main" class="call-out call-out_img">
-        <h1> {{"Key Archive"}} </h1>
+        <h1>{{ "Key Archive" }}</h1>
+        <!-- Project Description Start -->
+        <p>This is the project homepage for Key Archive or Key CAS (currently under consideration for the final name), a no-code web page editor. Here, updates on project progress and reflections will be shared.</p>
+        <!-- Project Description End -->
     </div>
 
-    {% include blog/blog2.liquid %}
+    {% include 'blog/blog2.liquid' %}
 
 </div>
