@@ -2,7 +2,7 @@
 layout: post
 title: What Can I Do?
 author: JeremyZhang
-tags: [Test, Keystone]
+tags: [Test, Keystone,CAS]
 excerpt_separator: <!--more-->
 ---
 <!--more-->
@@ -21,5 +21,3 @@ The problem is, there aren't many tech-savvy students at our school, so I'm not 
 That said, we do have some tech-savvy students, just not enough to meet the demand. So why can't we rally around the tech talent we have and find ways to make the process more accessible? You can't expect someone passionate about literature or art to also learn Java, HTML, CSS, JavaScript, Python, etc. Not everyone has the time or energy for that.
 
 Therefore, why don't we create something to make the process more accessible? The purpose of these programs should be to help people and increase accessibility, not limit horizons or benefit only a small group.
-
-## 2024/May/14 Updates
