@@ -27,13 +27,11 @@ layout: default
 
     <!-- Filter posts from KeyArchive folder -->
     <div class="posts">
-        {% for post in site.posts %}
-            {% if post.path contains '/KeyArchive/' %}
+        {% for post in site.KeyArchive %}
                 <div class="post-preview">
                     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
                     <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
                 </div>
-            {% endif %}
         {% endfor %}
     </div>
 
