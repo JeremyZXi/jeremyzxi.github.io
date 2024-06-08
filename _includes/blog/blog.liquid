@@ -1,8 +1,8 @@
 <div class="posts">
-    {% unless paginator.posts %}
+    {% unless site.KeyArchive %}
     <article><section class="post-content"><p>There are no blog posts</p></section></article>
     {% endunless %}
-    {% for post in paginator.posts %}
+    {% for post in site.KeyArchive %}
     <div class="post-teaser">
         {% if post.thumbnail %}
         <div class="post-img">
@@ -33,5 +33,3 @@
     </div>
     {% endfor %}
 </div>
-
-{% include blog/blog_nav.liquid %}
