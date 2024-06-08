@@ -50,7 +50,9 @@ collections:
   RustedWarfareMod:
     output: true
     permalink: /:collection/:name
-
+  KeyArchive:
+    output: true
+    permalink: /:collection/:name
 # BUILD SETTINGS
 sass:
   style: compressed
