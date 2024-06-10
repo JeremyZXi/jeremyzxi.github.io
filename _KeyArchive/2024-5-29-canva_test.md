@@ -2,7 +2,7 @@
 layout: post
 title: test if canva embed works
 author: JeremyZhang
-tags: [Test]
+tags: [Test, Keystone,CAS]
 excerpt_separator: <!--more-->
 ---
 <!--more-->
