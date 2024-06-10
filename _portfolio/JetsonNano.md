@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Mathematical Modeling
-img: "assets/img/portfolio/MyTello.jpg"
-feature-img: "assets/img/portfolio/MyTello.jpg"
-thumbnail: "assets/img/portfolio/MyTello.jpg"
-date: 27 April 2023
+title: Jetson Nano
+img: "assets/img/jetsonnano.jpg"
+feature-img: "assets/img/jetsonnano.jpg"
+thumbnail: "assets/img/jetsonnano.jpg"
+date: 25 April 2024
 tags: [AI]
 ---
