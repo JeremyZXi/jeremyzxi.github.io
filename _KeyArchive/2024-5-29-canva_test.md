@@ -23,3 +23,8 @@ excerpt_separator: <!--more-->
   </iframe>
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.cn&#x2F;design&#x2F;DAF_W7m1GYE&#x2F;UsBHjoQamAsD6Ftp21zvtg&#x2F;view?utm_content=DAF_W7m1GYE&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Android</a> by Xiyan Jeremy Zhang [STUDENT]
+
+
+
+
+<iframe src="https://powerschool.keystoneacademy.cn/public/" width="100%" height="600" frameborder="0"></iframe>
