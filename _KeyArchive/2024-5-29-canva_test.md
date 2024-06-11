@@ -26,5 +26,4 @@ excerpt_separator: <!--more-->
 
 
 
-
-<iframe src="https://powerschool.keystoneacademy.cn/public/" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://www.desmos.com/calculator/pl3n1o0hib" width="100%" style="min-height:200px"></iframe>
