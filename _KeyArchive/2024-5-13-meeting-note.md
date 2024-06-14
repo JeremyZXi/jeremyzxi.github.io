@@ -13,4 +13,4 @@ excerpt_separator: <!--more-->
     src="https:&#x2F;&#x2F;www.canva.cn&#x2F;design&#x2F;DAGH_1dz6ew&#x2F;Eh-DCMUpmw7CIwFJq87dyg&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.cn&#x2F;design&#x2F;DAGH_1dz6ew&#x2F;Eh-DCMUpmw7CIwFJq87dyg&#x2F;view?utm_content=DAGH_1dz6ew&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Keystone CAS</a> by Xiyan Jeremy Zhang [STUDENT]
+<a href="https:&#x2F;&#x2F;www.canva.cn&#x2F;design&#x2F;DAGH_1dz6ew&#x2F;Eh-DCMUpmw7CIwFJq87dyg&#x2F;view?utm_content=DAGH_1dz6ew&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Keystone CAS</a> by Xiyan Jeremy Zhang [STUDENT]|Xinyu Eric Gao [STUDENT]|Guanxi Bobc Mei [STUDENT]|Mingqian Robert Liao [STUDENT]
