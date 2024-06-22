@@ -5,6 +5,7 @@ author: JeremyZhang
 tags: [Test, Keystone,CAS]
 excerpt_separator: <!--more-->
 ---
+<!--more-->
 # Development
 
 To develop the project, you need to run it from the source. Therefore, using `Docker` or `npx` might not work well. The source code of our edition is stored on [GitHub](https://github.com/JeremyZXi/Silex).
