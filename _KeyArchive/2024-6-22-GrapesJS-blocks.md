@@ -16,7 +16,7 @@ const plugins = [
     { name: 'your-plugin', value: yourPluginName },
 ];
 ```
-![Figure1]({{ "image/GrapesJSBlocks-24-6-22.png" | relative_url}})
+![Blocks]({{ "assets/img/GrapesJSBlocks-24-6-22.png" | relative_url}})
 The additional GrapesJS plugins that have been successfully integrated are:
 
 ```
