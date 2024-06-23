@@ -41,25 +41,5 @@ $ npm run dev
 $ npm run start
 ```
 Sliex will be run on `http://localhost:6805`, and the hosting system on `http://localhost:8080/`
-My understanding is that you need to modify the TypeScript files in the `src/` directory and then use `npm run build` to compile the code into a runnable format. The plugin management for `GrapesJS` is located at `Silex/src/ts/client/grapesjs/index.ts`.
+My understanding is that you need to modify the TypeScript files in the `src/` directory and then use `npm run build` to compile the code into a runnable format. 
 
-I added a `GrapesJS` plugin using the following code:
-
-```javascript
-import { yourPluginName } from 'your-plugin';
-// rest of the code......
-const plugins = [
-    { name: 'your-plugin', value: yourPluginName },
-];
-```
-The additional GrapesJS plugins that have been successfully integrated are:
-
-```
-grapesjs-tui-image-editor
-grapesjs-typed
-grapesjs-tabs
-grapesjs-component-countdown
-grapesjs-navbar
-```
-
-Additionally, I modified the options in `grapesjs-blocks-basic` to enable all blocks.
