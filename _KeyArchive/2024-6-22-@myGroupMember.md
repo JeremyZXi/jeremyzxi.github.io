@@ -10,7 +10,7 @@ excerpt_separator: <!--more-->
 
 To develop the project, you need to run it from the source. Therefore, using `Docker` or `npx` might not work well. The source code of our edition is stored on [GitHub](https://github.com/JeremyZXi/Silex).
 
-To get started, open a terminal and navigate to the directory where you want the project to be located:
+To get started, open a terminal and navigate to the directory where you want the project to be located(you may ignore this step if you do not care):
 
 ```sh
 $ cd <your chosen directory>
