@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: “Archive”
+title: Archive
 permalink: /archive/
 hide: true
 excluded: true
