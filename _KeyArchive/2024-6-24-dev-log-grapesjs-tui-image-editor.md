@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 24/6/24 log
+title: 24/6/24 log grapesjs-tui-image-editor
 author: JeremyZhang
 feature-img: "assets/img/Screenshot 2024-06-24 at 11.45.29.png"              # Add a feature-image to the post
 thumbnail: "assets/img/Screenshot 2024-06-24 at 11.45.29.png"  # Add a thumbnail image on blog view
