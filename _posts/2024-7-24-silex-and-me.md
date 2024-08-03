@@ -28,4 +28,7 @@ Having the ability to control every single aspect of myself is, in my perspectiv
 As Rousseau once said:
 >"Man is born free, but everywhere he is in chains"
 
-There are restrictions everywhere in our lives, often subtle and unnoticed. For instance, 
+There are restrictions everywhere in our lives, often subtle and unnoticed. For instance, people tell you that you have to have good scores, you have to be good at sport, you have to know an instrument or have some habits in art, etc in order to get into a good college. In that case, I have the risk of lost my control over my time, my effort, and even my habits. 
+
+
+
