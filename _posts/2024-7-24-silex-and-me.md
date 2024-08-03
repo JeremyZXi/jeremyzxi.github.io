@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pull Requests: Adding an Organ to a Digital Body
+title: Pull Requests
 author: JeremyZhang
 
 tags: [Open Source, Reflection, Personal Growth]
