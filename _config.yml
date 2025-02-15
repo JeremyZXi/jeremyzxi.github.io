@@ -4,7 +4,7 @@ url: "https://jeremyzxi.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 title: Jeremy Zhang                                   # site's title
-description: "A website with blog posts and pages"      # used by search engines
+description: "Jeremy Zhang's Blog"      # used by search engines
 avatar: assets/img/JZ.png                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
