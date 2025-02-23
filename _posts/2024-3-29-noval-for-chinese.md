@@ -3,7 +3,7 @@ layout: post
 title: >
     词
 author: JeremyZhang
-tags: [Test, Keystone,鼎石小说]
+tags: [Test, Keystone,小说]
 ---
 **4月1日 星期日**
 
