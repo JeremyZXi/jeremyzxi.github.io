@@ -8,6 +8,7 @@ date: September 2024
 tags: [AI]
 ---
 # Code we use during the KAP 代码下载
+
 | File 文件 | Tag 标签 |
 |----------|----------|
 | [AI Lamp 1](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/lamp_dataCollection.zip) | Arduino code for data collection | 
