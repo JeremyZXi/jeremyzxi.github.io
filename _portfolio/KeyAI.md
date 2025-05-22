@@ -15,6 +15,7 @@ tags: [AI]
 | [AI Lamp 2](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/lamp_run.zip) | Arduino | Code to run the lamp project |
 | [Smart Sorter 1](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/sorter.zip) | Arduino | Code to run the sorter project |
 | [Smart Sorter 2](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/Sorter-inference.ipynb) | Python | Code to run the sorter project |
+| [Linear Regression Practice](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/LinearRegression.ipynb) | Python | Linear Regression Practice Code |
 
 
 # Presentation Slides & Files 课件
@@ -32,3 +33,4 @@ tags: [AI]
 |-----------|----------|------------------|
 | [Derivation of the least-squared method and the linear regression(Problem)](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/LinearRegression.pdf) | Math,Theory| Problem set(extension) |
 | [Derivation of the least-squared method and the linear regression(Answer)](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/LinearRegression_ans.pdf) | Math,Theory| Answer of the problem set(extension) |
+| [Lamp Data(Augmented)](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/augmented_data.csv) | Data| Data for Linear Regression |
