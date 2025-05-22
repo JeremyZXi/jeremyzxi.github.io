@@ -11,11 +11,11 @@ tags: [AI]
 
 | File 文件 | Tag 标签 | Description 描述 |
 |-----------|----------|------------------|
-| [⬇️ AI Lamp 1 (ZIP)](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/lamp_dataCollection.zip) | Arduino | Code for data collection |
-| [⬇️ AI Lamp 2 (ZIP)](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/lamp_run.zip) | Arduino | Code to run the lamp project |
-| [⬇️ Smart Sorter 1 (ZIP)](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/sorter.zip) | Arduino | Code to run the sorter project |
-| [⬇️ Smart Sorter 2 (IPYNB)](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/Sorter-inference.ipynb) | Python | Code to run the sorter project |
-| [⬇️ Data CSV](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/data.csv) | CSV | Collected data file |
+| [AI Lamp 1](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/lamp_dataCollection.zip) | Arduino | Code for data collection |
+| [AI Lamp 2](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/lamp_run.zip) | Arduino | Code to run the lamp project |
+| [Smart Sorter 1](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/sorter.zip) | Arduino | Code to run the sorter project |
+| [Smart Sorter 2](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/Sorter-inference.ipynb) | Python | Code to run the sorter project |
+| [Linear Regression Practice](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/LinearRegression.ipynb) | Python | Linear Regression Practice Code |
 
 
 # Presentation Slides & Files 课件
