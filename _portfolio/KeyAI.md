@@ -16,7 +16,7 @@ tags: [AI]
 | [Smart Sorter 1](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/sorter.zip) | Arduino | Code to run the sorter project |
 | [Smart Sorter 2](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/Sorter-inference.ipynb) | Python | Code to run the sorter project |
 | [Linear Regression Practice](https://github.com/JeremyZXi/jeremyzxi.github.io/raw/master/files/LinearRegression.ipynb) | Python | Linear Regression Practice Code |
-
+| [Logistic Regression](https://www.kaggle.com/code/xiyanjeremyz/logistic-regression-keyai-onlineshopping) | Python | Logistic Regression: Negative Comment Detection |
 
 # Presentation Slides & Files 课件
 
