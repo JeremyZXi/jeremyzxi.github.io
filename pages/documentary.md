@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fishman’s Dilema: The Shielded Signal——when Technology meets human currents
+title: Fishman’s Dilema--The Shielded Signal——when Technology meets human currents
 permalink: /fishman/
 hide: true
 ---
