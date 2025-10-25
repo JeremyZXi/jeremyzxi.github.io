@@ -7,6 +7,14 @@ hide: true
 A short documentary
 <!--more-->
 
-Here's the video
+Enjoy~
 
-<iframe src="https://drive.google.com/file/d/1aKDa7VChxRQdvk5e3yI7jj53OjskZL4T/preview" width="640" height="480" allow="autoplay"></iframe>
+<div style="display: flex; justify-content: center; margin: 20px 0;">
+  <iframe 
+    src="https://drive.google.com/file/d/1aKDa7VChxRQdvk5e3yI7jj53OjskZL4T/preview"
+    width="80%" 
+    height="480" 
+    style="border: none; border-radius: 8px;"
+    allow="autoplay">
+  </iframe>
+</div>
